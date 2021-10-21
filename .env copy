@@ -1,0 +1,1 @@
+MONGO_URL = mongodb://<IP MONGO>:27017/<Nom_BDD>?directConnection=true&serverSelectionTimeoutMS=2000
